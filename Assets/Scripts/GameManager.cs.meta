@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: de70e275f8ada6c4da269c9582a025f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SkeletonWarrior: {fileID: 5691103192432768852, guid: 950399d9504026e44ac4e37ffdcfe1b1, type: 3}
+  - _EnemyContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
